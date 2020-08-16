@@ -13,10 +13,10 @@
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
  <br>
- <b><br>
+ <b>
  🔭 I like to build Appilication in Flutter with Firebase.<br>
  🌱 I’m currently learning Flutter , Firebase and ML :octocat:.</b>
- <br>
+ <br><br>
  
 
 **Languages and Tools:**  
@@ -29,7 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-### Want to know more about me? Check out my Portfolio [![website](https://img.shields.io/badge/PortfolioWebsite-Jignesh-Kukadiya?style=flat-square&logo=google-chrome)](https://vibrant-colden-46fc7a.netlify.app/)
+### Want to know more about me? Check out my Portfolio!! [![website](https://img.shields.io/badge/PortfolioWebsite-Jignesh-Kukadiya?style=flat-square&logo=google-chrome)](https://vibrant-colden-46fc7a.netlify.app/)
 
 ## Tech-Stack...
 
