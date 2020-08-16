@@ -20,7 +20,7 @@
  🌱 I’m currently learning Flutter , Firebase and ML :octocat:.</b><br>
  
  [![Twitter: Jignesh2522](https://img.shields.io/twitter/follow/Jignesh2522?style=social)](https://twitter.com/Jignesh2522)
-[![Linkedin: Jignesh](https://img.shields.io/badge/-Jignesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jignesh-kukadiya-0b7852193/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: Jignesh](https://img.shields.io/badge/-Jignesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jignesh-kukadiya-0b7852193/)](https://www.linkedin.com/in/jignesh-kukadiya-0b7852193/)
 [![GitHub Jignesh](https://img.shields.io/github/followers/jerry2501?label=follow&style=social)](https://github.com/jerry2501)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Jignesh-Kukadiya?style=flat-square&logo=google-chrome)](https://vibrant-colden-46fc7a.netlify.app/)
 
