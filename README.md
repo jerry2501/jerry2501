@@ -15,10 +15,11 @@
 <a href="https://instagram.com/jignesh_.kukadiya/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
- <br><br>
+ <br>
  <b><br>
  🔭 I like to build Appilication in Flutter with Firebase.<br>
- 🌱 I’m currently learning Flutter , Firebase and ML :octocat:.</b><br>
+ 🌱 I’m currently learning Flutter , Firebase and ML :octocat:.</b>
+ <br>
  
  [![Twitter: Jignesh2522](https://img.shields.io/twitter/follow/Jignesh2522?style=social)](https://twitter.com/Jignesh2522)
 [![Linkedin: Jignesh](https://img.shields.io/badge/-Jignesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jignesh-kukadiya-0b7852193/)](https://www.linkedin.com/in/jignesh-kukadiya-0b7852193/)
