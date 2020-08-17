@@ -1,5 +1,5 @@
 ### Hi there 👋
-<b> This is Jignesh Kukadiya. I am student of Computer Science and Technology. </b>
+<b> This is Jignesh Kukadiya. Currently, Student of Computer Science and Technology. </b>
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerry2501&label=Views&color=blue&style=plastic" alt="jerry2501" /> </p>
  
