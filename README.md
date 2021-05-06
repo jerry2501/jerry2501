@@ -4,13 +4,13 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerry2501&label=Views&color=blue&style=plastic" alt="jerry2501" /> </p>
  
  <a href="https://twitter.com/Jignesh2522">
-  <img align="left" alt="Jignesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Jignesh's Twitter" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/jignesh-kukadiya-0b7852193">
   <img align="left" alt="Jignesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://instagram.com/jignesh_.kukadiya/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Jignesh's Instagram" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
  <br><br>
  <b>
